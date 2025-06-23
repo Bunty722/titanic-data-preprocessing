@@ -9,6 +9,8 @@
    - `Sex`: Label Encoding (male=1, female=0)
    - `Embarked`: One-Hot Encoding
 4. Scaled numerical features (`StandardScaler`)
+## 🔍 Outlier Treatment  
+- Visualized using boxplots
 
 ## 📂 File Structure
 titanic-data-preprocessing/
