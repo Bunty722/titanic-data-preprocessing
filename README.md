@@ -23,8 +23,6 @@ titanic-data-preprocessing/
 
 ## 🚀 Usage
 ```bash
-# Run preprocessing
-python scripts/preprocess.py
 
 # Or open notebook:
 jupyter notebook notebooks/titanic_preprocessing.ipynb
