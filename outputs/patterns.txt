@@ -1,0 +1,9 @@
+=== STRONG CORRELATIONS (|r| > 0.5) ===
+Survived ↔ Sex: r = -0.54
+Pclass ↔ Fare: r = -0.55
+Sex ↔ Survived: r = -0.54
+Fare ↔ Pclass: r = -0.55
+
+=== KEY TRENDS ===
+- Fare: Right-skewed with extreme outliers (>3σ)
+- Age: Bimodal distribution (peaks at children/young adults)
